@@ -8,8 +8,13 @@ widget should be connected to an LCD-display output widget.
 3) Place the widgets on a grid layout and use different widgets for each input.
 
 4) The required inputs are:
-  a. The length of the cable. 
+  a. The length of the cable.
+ 
   b. The maximal length of a message.
+  
   c. The probability of generating a massage (specified in percent)
+  
   d. The maximal number of ticks for carrier sensing
+  
   e. The total number of ticks for the entire simulation.
+  
